@@ -28,4 +28,4 @@ Le dataset utilisé dans ce projet **n’est pas inclus dans ce dépôt GitHub**
 3. La structure attendue est la suivante :
  #  Auteur
  Maram Benkilani ,
- Projet Flutter – Application mobile de gestion d’événements
+ Projet Deeplearning :   Breast Cancer Detection 
