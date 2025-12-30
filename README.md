@@ -27,5 +27,4 @@ Le dataset utilisé dans ce projet **n’est pas inclus dans ce dépôt GitHub**
 2. Placer le dossier `archive/` à la racine du projet
 3. La structure attendue est la suivante :
  #  Auteur
- Maram Benkilani ,
- Projet Deep learning :   Breast Cancer Detection 
+ Maram Benkilani 
